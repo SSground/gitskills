@@ -1,2 +1,4 @@
 # gitskills
- my first name
+ my first nama 
+ lame
+ 				
